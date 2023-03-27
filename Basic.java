@@ -1,7 +1,9 @@
+// GOOGLE DOCS LINK
+//https://docs.google.com/document/d/1ekAQrdVygu2NWSzVPMkZFUSBh2if-enJpI_XYs6Nj7c/edit?usp=share_link
 public class Basic{
     
     public static void main(String[] args){
-
+    
         int integer_variable ;// declaring a variable
         integer_variable = 2;// assigning a value to the variable 
         //or we can do it for same
